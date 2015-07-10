@@ -1,0 +1,62 @@
+These Windows services are started:
+
+   Application Experience
+   Application Information
+   Avast Antivirus
+   Background Intelligent Transfer Service
+   Base Filtering Engine
+   CNG Key Isolation
+   COM+ Event System
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Desktop Window Manager Session Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   Extensible Authentication Protocol
+   Foxit Cloud Safe Update Service
+   Group Policy Client
+   HWDeviceService.exe
+   IP Helper
+   Microsoft .NET Framework NGEN v4.0.30319_X86
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Offline Files
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Defender
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Update
+   WLAN AutoConfig
+   Workstation
+   WWAN AutoConfig
+
+The command completed successfully.
+
